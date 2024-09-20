@@ -2,6 +2,7 @@
 This Power BI dashboard visualizes sales performance across various categories and subcategories, allowing users to analyze calculated profits and sales trends.  It features month-over-month comparisons of sales and profit over two years, enhancing data-driven decision-making.
 
 
+![Uploading WhatsApp Image 2024-09-20 at 1.31.37 PM.jpeg…]()
 
 # Features
 #### 1.Maps: 
