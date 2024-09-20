@@ -22,7 +22,7 @@ Month-over-month comparison of sales and profit for two years, tracking trends a
 1. Clone this repository to your local machine:
 
 
-   git clone https://github.com/hiranvjoseph/Power_BI_Dashboard.git
+   git clone https://github.com/shreyagau02/Power-BI-Dashboard?tab=readme-ov-file
 
 2. Navigate to the project folder you are interested in.
 
