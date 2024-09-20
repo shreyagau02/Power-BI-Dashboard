@@ -31,7 +31,7 @@ Month-over-month comparison of sales and profit for two years, tracking trends a
 3. Open the `project_name.pbix` file using Power BI Desktop to interact with the dashboard and explore the analysis.
 
 4. Examine the `data.csv` file for the dataset used in the project.
-5. # Project Structure
+ # Project Structure
 The repository follows a structured organization for each Power BI project:
 
 - **[Project Name]**: Descriptive name for the Power BI project.
