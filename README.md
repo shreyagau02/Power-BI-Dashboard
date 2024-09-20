@@ -2,10 +2,11 @@
 This Power BI dashboard visualizes sales performance across various categories and subcategories, allowing users to analyze calculated profits and sales trends.  It features month-over-month comparisons of sales and profit over two years, enhancing data-driven decision-making.
 
 
-![Uploading WhatsApp Image 2024-09-20 at 1.31.37 PM.jpeg…]()
+
 
 # Features
 #### 1.Maps: 
+
 Geospatial visualization of sales data.
 #### 2.Slicers:
  **Payment Mode Slicer:** Filter data by payment methods (Online, COD, CAD).
@@ -37,4 +38,8 @@ The repository follows a structured organization for each Power BI project:
   - `project_name.pbix`: Power BI report file for the project.
   - `data.csv` or other data file formats: Dataset used for analysis.
   - `presentation.pptx` (if available): Presentation summarizing the project's findings.
-   
+
+    # screenshots
+   ![WhatsApp Image 2024-09-20 at 1 31 37 PM](https://github.com/user-attachments/assets/c3d36a47-05a4-4cb6-9193-0d331ec70b63)
+
+![WhatsApp Image 2024-09-20 at 1 32 31 PM (1)](https://github.com/user-attachments/assets/3e80b190-a8d6-42d4-91e6-7e59a6b505e3)
