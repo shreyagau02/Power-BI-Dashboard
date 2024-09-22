@@ -37,7 +37,7 @@ The repository follows a structured organization for each Power BI project:
 - **[Project Name]**:  Name for the Power BI project.
   - `project_name.pbix`: Power BI report file for the project.
   - `data.csv` : Dataset used for analysis.
-  - `presentation.pptx` (if available): Presentation summarizing the project's findings.
+  - `project_name.pdf`: Pdf format of the dashboard.
 
     ## screenshots
    ![WhatsApp Image 2024-09-20 at 1 31 37 PM](https://github.com/user-attachments/assets/c3d36a47-05a4-4cb6-9193-0d331ec70b63)
