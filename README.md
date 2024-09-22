@@ -1,10 +1,11 @@
-# overview
+# SUPERSTORE SALES DASHBOARD
+## overview
 This Power BI dashboard visualizes sales performance across various categories and subcategories, allowing users to analyze calculated profits and sales trends.  It features month-over-month comparisons of sales and profit over two years, enhancing data-driven decision-making.
 
 
 
 
-# Features
+## Features
 #### 1.Maps: 
 
 Geospatial visualization of sales data.
@@ -19,8 +20,8 @@ Geospatial visualization of sales data.
 Displays sales by category and subcategory for easy comparison of performance.
 #### 5.Line Chart:
 Month-over-month comparison of sales and profit for two years, tracking trends and identifying patterns.
-# Getting Started
-### Installation
+
+## Installation
 1. Clone this repository to your local machine:
 
 
@@ -31,15 +32,16 @@ Month-over-month comparison of sales and profit for two years, tracking trends a
 3. Open the `project_name.pbix` file using Power BI Desktop to interact with the dashboard and explore the analysis.
 
 4. Examine the `data.csv` file for the dataset used in the project.
- # Project Structure
+ ## Project Structure
 The repository follows a structured organization for each Power BI project:
 
 - **[Project Name]**:  Name for the Power BI project.
   - `project_name.pbix`: Power BI report file for the project.
   - `data.csv` : Dataset used for analysis.
   - `project_name.pdf`: Pdf format of the dashboard.
-
-    ## screenshots
+  ## screenshots
    ![WhatsApp Image 2024-09-20 at 1 31 37 PM](https://github.com/user-attachments/assets/c3d36a47-05a4-4cb6-9193-0d331ec70b63)
 
 ![WhatsApp Image 2024-09-20 at 1 32 31 PM (1)](https://github.com/user-attachments/assets/3e80b190-a8d6-42d4-91e6-7e59a6b505e3)
+## FINDINDS AND CONCLUSION
+
